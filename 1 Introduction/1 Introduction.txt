@@ -1,0 +1,70 @@
+Introduction to GCP:
+---------------------
+
+What is GCP?
+
+    - Google Cloud Platform
+
+Advantages of GCP:
+------------------
+
+    - High Availablility
+    - Economic Pricing
+    - Higher Security
+
+
+
+GCP Services:
+------------
+
+Google Compute Engine
+Google Cloud Storage (Creating and storing files in buckets) - Similar to S3 in AWS
+
+
+
+AWS vs Azure vs GCP: (Market Growth - 2021)
+---------------------
+
+    - AWS owns 32%
+    - Azure owns 20%
+    - GCP owns 9%
+
+
+Availability Zones:
+--------------------
+
+    - AWS has 25 Regions and 80 AZs
+    - Azure has 60 Regions
+    - GCP has 25 Regions and 76 Regions
+
+Who uses Cloud?
+-----------------
+
+AWS is leading with Coca Cola, 
+Azure is used by BMW
+GCP - Paypal, Twitter, PNG
+
+
+Compute Services:
+-----------------
+
+    - AWS has EC2
+    - Azure has Azure VM
+    - GCP has Google Compute Engine
+
+
+Storage Services:
+------------------
+
+    - AWS EBS, S3, EFS
+    - Azure has both object and block storage
+    - GCP has Cloud Storage
+
+
+Pricing:
+-------
+AWS - Per hour pricing
+Azure - Per Minute Pricing
+GCP - Per Second Pricing
+
+

@@ -1,0 +1,9 @@
+GCP Networking Services:
+------------------------
+
+- Virtual Private Cloud
+- Cloud Load Balancing
+- Cloud CDN
+- Cloud DNS (similar to Route53)
+
+

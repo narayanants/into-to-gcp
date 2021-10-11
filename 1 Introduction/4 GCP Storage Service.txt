@@ -1,0 +1,10 @@
+GCP Storage Services:
+---------------------
+
+- Cloud Storage
+- Cloud BigTable
+- Cloud Datastore
+- Cloud SQL
+- Persistent Disk
+
+

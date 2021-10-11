@@ -1,0 +1,57 @@
+GCP Global Infrastructure:
+-------------------------
+
+ - Multi Regional Resource
+ - Zones and Regions
+ - Geographical Location = Region
+ - Regions are connected via Low Latency Networks
+
+
+
+
+ GCP Services Domains:
+ ---------------------
+
+ - Compute
+ - Storage and Databases
+ - Networking
+ - Big Data
+ - Developer Tools
+ - IAM
+ - IoT
+ - Cloud AI
+ - Management Tools
+ - Data Transfer
+
+
+
+
+ Compute Engine (IaaS)
+ ---------------------
+
+ - Infra as a Services
+ - consists of VMs
+ - Linux and Windows OS's
+
+
+ App Engine (PaaS):
+ ------------------
+
+  - Platform as a  Service
+
+
+ Container Engine(GKE):
+ -----------------------
+
+ - used to launch Containers
+ - launch containers from container registry
+
+
+ Cloud Functions:
+ ----------------
+
+  -  Serverless Cloud Functions
+
+ 
+
+ 
