@@ -1,2 +1,2 @@
-# into-to-gcp
+# intro-to-gcp
 Introduction to Google Cloud Platform
