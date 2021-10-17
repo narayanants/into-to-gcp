@@ -1,0 +1,59 @@
+GCP Structure and Design:
+--------------------------
+
+     - Global offering
+     - Scale like mad
+     - Security
+     - Developers in Mind
+     - Intrinsically Global
+     - AWS is Region Scoped
+     - GCP in Global Model
+
+
+Physcial Infrastructure:
+------------------------
+
+ - vCPU
+ - Physical Server
+ - Rack
+ - Data Center (Builing)
+ - Zone
+ - Region
+ - Multi Region
+ - Private Global Network
+ - Point of Presence (PoPs)
+ - Global System
+
+
+ Pricing:
+ -------
+
+  - Provisioned
+  - Usage
+  
+
+  Security:
+  ---------
+
+   - Lot attention paid to physcial Security
+   - Encrypted at Rest
+   - Strong KMS
+   - All Control info is Encrypted
+   - BeyondCorp
+
+
+Scale and Automation:
+--------------------
+
+- Scalability must be unbounded
+- Dev's dont want to answer pages
+- Resource Quotas
+- Queryable
+
+
+Projects are similar to AWS Accounts
+Projects owns resources
+
+
+
+
