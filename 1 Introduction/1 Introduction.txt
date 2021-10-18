@@ -42,7 +42,7 @@ Who uses Cloud?
 
 AWS is leading with Coca Cola, 
 Azure is used by BMW
-GCP - Paypal, Twitter, PNG
+GCP - Paypal, Twitter, P&G
 
 
 Compute Services:
