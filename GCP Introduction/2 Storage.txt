@@ -1,0 +1,43 @@
+GCP Storage:
+------------
+
+Local SSD:
+-----------
+
+    Incredible Performance
+    Data will be lost when instance shut down
+    But can survive a live migration
+
+Persistent Disk Service (Block Storage):
+----------------------------------------
+
+    Like local Disk
+    Larger the volume,faster the Performance
+    Resize while Running
+    Take snapshots and Machine Images
+    Zonal Resources
+    Snapshots are Available globally
+
+
+Cloud Filestore:
+----------------
+
+    - Fully managed file based system
+    - Like EFS
+    - NFS Protocol
+    - Primary use case for application migration in Cloud
+    - Fully managed file managing services
+
+Cloud Storage:
+--------------
+
+     - Versioned, Object based Storage
+     - Buckets have files/objects in them
+     - 11 9's durability
+     - Strongly consistent
+     - CDN and site hosting
+     - Similar to S3
+     
+
+
+
