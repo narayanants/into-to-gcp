@@ -4,6 +4,12 @@ Databases:
     - Encrypts data at service
     - 
 
+    Cloud SQL
+    Cloud Spanner
+    Cloud BigQuery
+    Cloud BigTable
+    Cloud Datastore
+    Cloud FireBase
 Cloud SQL:
 ----------
 
@@ -16,7 +22,7 @@ Cloud Spanner:
 --------------
 
     - Relational DB
-    - Seriously large systems
+    - Seriously large scale systems
 
 
 Big Query:
