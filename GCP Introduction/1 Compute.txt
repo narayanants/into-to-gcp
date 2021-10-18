@@ -1,0 +1,39 @@
+Google Compute Engine:
+---------------------
+
+ - VM's on the Cloud
+ - on Demand
+ - IaaS
+ - Similar to EC2
+ - Sustained Run Discount
+ - Extra for OS's and GPU
+
+
+
+ Google Kubernetes Engine (GKE):
+ -------------------------------
+
+  - Running Docker containers in the Cloud
+  - Built from Borg
+  - No IAM
+  - Integrates with Persistent Disk Storage
+
+
+
+Google App Engine (GKE)
+-----------------------
+
+     - Similar to ElasticBeanstalk and Heroku
+     - Autoscale based on the Load
+     - Available for popular programming languages
+    
+
+Google Cloud Function:
+----------------------
+
+    - Available on all popular programming languages
+    - Serverless similar to Lambda
+    - Pay for CPU and RAM
+    - Every functions gets an HTTP Endpoint
+    - Massive Scale (Horizontally)
+
