@@ -1,0 +1,51 @@
+Databases:
+----------
+
+    - Encrypts data at service
+    - 
+
+Cloud SQL:
+----------
+
+     - MySQL and PostgreSQL
+     - Similar to RDS
+     - Automatic Replication
+
+
+Cloud Spanner:
+--------------
+
+    - Relational DB
+    - Seriously large systems
+
+
+Big Query:
+----------
+
+    - Serverless column store data warehouse for analytics in SQL
+    - Like Redshift
+    - Serverless 
+    - PB in minutes
+    - Exactly like Athena
+    - Pay for data stored
+
+Cloud BigTable:
+----------------
+
+    - NoSQL DB for large operational and analytics Databases
+    - Dynamodb and Apache HBase
+    -
+
+Cloud Datastore:
+----------------
+
+    - NoSQL DB with indexes
+    - Similar to Dynamodb
+    - Like MongoDB Cluster
+
+FireBase:
+----------
+
+     - Real time Databases
+     - Like Dynamodb and MongoDB
+     
