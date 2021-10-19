@@ -1,0 +1,53 @@
+Internal Networking:
+-------------------
+
+    - VPC 
+    - Cloud Interconnect
+    - Cloud VPN
+    - Dedicated Interconnect
+    - Cloud Router
+    - CDN Interconnect
+
+VPC:
+----
+
+    - Virtual Private Cloud
+    - Similar to Amazon VPC
+    - Automatic Mode is Easy
+    - Custom mode gives more control
+    - VPC is Global and subnets are Regional
+    - VPC Peering
+    - Private access to some GCP Server which uses internal Network
+
+
+Cloud Interconnect:
+-------------------
+
+    - External network to Google's network
+    - SLAs
+    
+Cloud VPN:
+----------
+
+     - IPsec VPN
+     - Persistance static connection between Gateways
+     - Connects to one particular subnet
+     - 99.9% availability
+
+Dedicated Interconnect:
+-----------------------
+
+    - Direct Physical link between VPC and on-prem
+
+
+Cloud Router:
+-------------
+
+    - Similar to Route Table
+
+
+CDN Interconnect:
+----------------
+
+    - External CDN connections
+
