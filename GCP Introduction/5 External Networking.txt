@@ -5,6 +5,8 @@ External Networking:
   Cloud Domains
   Static IP
   Cloud Load Balancing
+  Cloud CDN
+  
   
 
 
