@@ -1,0 +1,46 @@
+External Networking:
+--------------------
+
+  Cloud DNS
+  Cloud Domains
+  Static IP
+  Cloud Load Balancing
+  
+
+
+
+
+ - Google Domains:
+ ------------------
+ - Google Registrar for Domains
+ - Similar to Route53
+
+
+  Cloud DNS:
+  ----------
+
+    - Port 53
+    - DNS Service
+
+Static IP:
+----------
+
+     - Similar to Elastic IP
+     - GCE and Network Load Balancers
+     - Global IP used for Global Load Balancers
+    
+Cloud Load Balancer:
+--------------------
+     - Similar to Elastic Load Balancer
+     - Load Balancing and Cloud CDN
+     - Regional Network Load Balancer
+     - Global Load Balancer
+
+Cloud CDN:
+----------
+
+    - CDN Network based on HTTPS load Balancer
+    - Similar to CloudFront
+    - 
+
+
