@@ -38,3 +38,52 @@ Storage:
     - Local SSD
     - Persistent Disk
     
+
+Databases:
+----------
+
+    Cloud SQL
+    Cloud Spanner
+    Cloud BigQuery
+    Cloud BigTable
+    Cloud Datastore
+    Cloud FireBase  
+
+Data Transfer:
+---------------
+
+- Data Transfer Appliance
+- Storage Transfer Services
+
+
+External Networing:
+-------------------
+
+  Cloud DNS
+  Cloud Domains
+  Static IP
+  Cloud Load Balancing
+  Cloud CDN
+
+
+Internal Networking:
+--------------------
+
+    - VPC 
+    - Cloud Interconnect
+    - Cloud VPN
+    - Dedicated Interconnect
+    - Cloud Router
+    - CDN Interconnect
+
+
+Machine Learning and AI:
+------------------------
+
+    - Cloud ML Engine
+    - Cloud Vision API
+    - Cloud Speech API
+    - Cloud Natural Language API
+    - Cloud Translation API
+    - DialogFlow
+    - Cloud Video Intelligence API
