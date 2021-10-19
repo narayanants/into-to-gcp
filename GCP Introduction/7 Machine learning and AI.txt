@@ -1,0 +1,69 @@
+Machine Learning and AI:
+------------------------
+
+
+    - Cloud ML Engine
+    - Cloud Vision API
+    - Cloud Speech API
+    - Cloud Natural Language API
+    - Cloud Translation API
+    - DialogFlow
+    - Cloud Video Intelligence API
+
+
+
+
+
+Cloud ML Engine:
+----------------
+
+    - Cloud Machine Learning Engine
+    - Similar to SageMaker
+    - 
+
+
+Cloud Vision API:
+-----------------
+    - Similar to Rekoginition
+    - 
+
+Cloud Speech API:
+----------------
+
+    - Auto Speech Recognition
+    - Pre recorded or recorded audio
+
+
+Cloud Natural Language API:
+---------------------------
+
+    - Extracts Info
+
+Cloud Language API:
+------------------
+
+    -  Translate text across 100 + languages
+    - 
+
+
+DialogFlow:
+-----------
+
+    - Chatbots
+    - Similar to Amazon Lex Service
+
+
+
+Cloud Video Intelligence API:
+-----------------------------
+
+    - Search a video catalog
+
+
+Cloud Job Discovery:
+-------------------
+
+     - Helps careers site.
+     - 
+
+
