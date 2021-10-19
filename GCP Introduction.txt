@@ -21,3 +21,20 @@ History of GCP:
  - Built by Googlers for Google
  - Firebase, APIGEE
 
+
+
+Compute:
+--------
+
+    - Google Compute Engine
+    - Google App Engine
+    - Google Kubernetes Engine
+    - Google Cloud Functions
+
+
+Storage:
+--------
+
+    - Local SSD
+    - Persistent Disk
+    
